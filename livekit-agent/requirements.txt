@@ -1,0 +1,9 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+python-dotenv>=1.0,<2
+livekit-agents~=1.8.9
+livekit-api>=1.2,<2
+livekit-plugins-deepgram~=1.8.9
+livekit-plugins-openai~=1.8.9
+livekit-plugins-cartesia~=1.8.9
+livekit-plugins-silero~=1.8.9
